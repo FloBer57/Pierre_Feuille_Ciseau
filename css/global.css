@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.sub-container {
+    padding: 10px;
+    text-align: center;
+}
+
+.sub-container img {
+    max-width: 100%;
+    height: auto;
+}
